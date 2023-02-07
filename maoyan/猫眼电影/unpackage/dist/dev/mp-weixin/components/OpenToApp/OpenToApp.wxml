@@ -1,0 +1,1 @@
+<view class="open-app"><image class="logo _img" src="{{$root.m0}}"></image><view class="to-app"><view class="find-newmovie">发现最热最新电影</view><view class="fenge"></view><view class="click-to-app">打开App ></view></view></view>

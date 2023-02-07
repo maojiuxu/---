@@ -1,0 +1,29 @@
+.single-video-details {
+  width: 100%;
+}
+.single-video-details video {
+  width: 100%;
+  height: 450rpx;
+}
+.single-video-details .details-info {
+  padding: 0 30rpx;
+}
+.single-video-details .user-info-details {
+  height: 60rpx;
+  padding: 0 30rpx;
+  display: flex;
+  justify-content: flex-start;
+}
+.single-video-details .user-info-details image {
+  width: 30rpx;
+  height: 30rpx;
+  border-radius: 50%;
+  line-height: 60rpx;
+}
+.single-video-details .user-info-details text {
+  height: 30rpx;
+  font-size: 28rpx;
+  color: #333;
+  line-height: 60rpx;
+}
+

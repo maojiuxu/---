@@ -1,0 +1,40 @@
+.open-app {
+  width: 100%;
+  height: 100rpx;
+  padding: 0 30rpx;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: aqua;
+}
+.open-app ._img {
+  width: 188rpx;
+  height: 78rpx;
+}
+.open-app .to-app {
+  line-height: 100rpx;
+  font-weight: 800;
+  display: flex;
+  position: relative;
+}
+.open-app .to-app .find-newmovie {
+  color: #666;
+  padding-right: 20rpx;
+  font-size: 28rpx;
+}
+.open-app .to-app .fenge {
+  width: 1rpx;
+  height: 28rpx;
+  border: none;
+  background-color: #999;
+  position: absolute;
+  top: 50%;
+  right: 170rpx;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+}
+.open-app .to-app .click-to-app {
+  color: #b37e7e;
+  font-size: 32rpx;
+}
+

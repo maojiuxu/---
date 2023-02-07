@@ -1,0 +1,1 @@
+<view class="header"><view class="header-title">猫眼电影</view><view data-event-opts="{{[['tap',[['e0',['$event']]]]]}}" class="header-icon iconfont icon-caidan" bindtap="__e"></view><view class="{{['header-mute',(isClickIcon)?'showMetu':'']}}"><view>首页</view><view>榜单</view><view>热点</view><view>商城</view></view></view>

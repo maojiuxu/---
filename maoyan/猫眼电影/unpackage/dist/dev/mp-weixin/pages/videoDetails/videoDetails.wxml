@@ -1,0 +1,1 @@
+<view class="single-video-details"><video src="{{videoData.video.url}}"></video><view class="details-info">{{videoData.title}}</view><view class="user-info-details"><image src="{{videoData.user.avatarurl}}"></image><text>{{videoData.user.nickName}}</text></view></view>

@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "open-to-app": "/components/OpenToApp/OpenToApp",
+    "header": "/components/Header/Header"
+  }
+}

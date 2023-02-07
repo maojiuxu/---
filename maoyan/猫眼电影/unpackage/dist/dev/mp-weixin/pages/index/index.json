@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "猫眼电影",
+  "usingComponents": {
+    "header": "/components/Header/Header",
+    "open-to-app": "/components/OpenToApp/OpenToApp"
+  }
+}
